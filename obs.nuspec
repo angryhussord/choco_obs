@@ -26,9 +26,9 @@ Bilinear or lanczos3 resampling.</description>
     <licenseUrl>https://github.com/jp9000/OBS/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/angryhussord/choco_obs/master/obs_icon.PNG</iconUrl>
-    <!--<dependencies>
-      <dependency id="" version="" />
-    </dependencies>-->
+    <dependencies>
+      <dependency id="directx" version="9.0.0.0" />
+    </dependencies>
     <releaseNotes>https://obsproject.com/changelog</releaseNotes>
   </metadata>
   <files>
