@@ -23,6 +23,8 @@ Bilinear or lanczos3 resampling.</description>
     <projectUrl>https://obsproject.com/</projectUrl>
     <tags>twitch open foss broadcast streaming video recording</tags>
     <copyright></copyright>
+    <projectSourceUrl>https://github.com/jp9000/OBS/</projectSourceUrl>
+    <packageSourceUrl>https://github.com/angryhussord/choco_obs</packageSourceUrl>
     <licenseUrl>https://github.com/jp9000/OBS/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/angryhussord/choco_obs/master/obs_icon.PNG</iconUrl>
